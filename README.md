@@ -1,6 +1,6 @@
 ![aliem](https://github.com/user-attachments/assets/f6c17efd-c7e7-493f-8201-49d0f8da2fe7)
 
-# Space-Invaders-in-Pygame
+# Space Invaders With Pygame
 ### Code with minor alterations based on Attreya Bhatt's YouTube tutorial. 
 - See his repository at https://github.com/attreyabhatt/Space-Invaders-Pygame
 - Original YouTube tutorial here: https://www.youtube.com/watch?v=FfWpgLFMI7w
